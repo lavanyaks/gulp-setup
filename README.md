@@ -1,2 +1,2 @@
 # gulp-setup
-My customized setup of gulp for projects
+My customized gulp setup for projects
